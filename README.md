@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vignesh6664
-- 👀 I’m interested in Full Stack Developement
-- 🌱 I’m currently learning Devops
+- 👀 I’m interested in Full Stack App Developement
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me vignesh.dev.main@gmail.com
 
 <!---
