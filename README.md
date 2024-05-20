@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vignesh6664
-- 👀 I’m interested in Full Stack Web Developement
-- 🌱 Now I'm a Front-End-Developer
+- 👀 I’m interested in Full Stack Developer
+- 🌱 Now I'm a Full Stack Developer
 - 📫 How to reach me vignesh.dev.main@gmail.com
 
 <!---
