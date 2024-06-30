@@ -1,6 +1,3 @@
-
-Sure, here's a GitHub profile description for you:
-
 Hi, I'm Vignesh B 👋
 
 I'm a Full Stack Developer with a passion for building robust and scalable web applications. My expertise lies in creating seamless user experiences and efficient back-end systems.
