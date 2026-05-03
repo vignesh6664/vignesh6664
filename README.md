@@ -48,5 +48,5 @@ I am a results-driven Engineer with nearly 2 years of experience specializing in
 ---
 
 ### 📫 Connect with Me
-*   **LinkedIn:** [linkedin.com/in/vignesh](https://linkedin.com/in/vignesh)
+*   **LinkedIn:** [linkedin.com/in/vignesh](https://linkedin.com/in/vignesh6664)
 *   **Email:** [dev.vignesh06@gmail.com](mailto:dev.vignesh06@gmail.com)
